@@ -13,7 +13,3 @@
 - ⚡ **Fun Fact:** I love combining creativity with technology to solve real-world problems, and when I'm not coding, you can find me experimenting with new graphic design techniques or exploring the latest in electronic security innovations.
 
 ---
-
-helooselassie/helooselassie is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

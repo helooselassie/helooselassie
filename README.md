@@ -3,8 +3,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Blending+theory+with+real-world+dev+skills;Designing+scalable+%26+secure+digital+solutions;Driven+by+curiosity+%26+impact;Open+source+collaborator+%7C+Lifelong+learner;Exploring+security%2C+software%2C+%26+IT+infrastructure;Crafting+seamless+web+%26+tech-driven+experiences
-" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Blending+theory+with+real-world+dev+skills;Designing+scalable+%26+secure+digital+solutions;Driven+by+curiosity+%26+impact;Open+source+collaborator+%7C+Lifelong+learner;Exploring+security%2C+software%2C+%26+IT+infrastructure;Crafting+seamless+web+%26+tech-driven+experiences" alt="Typing SVG" />
   </a>
   <h2 align="center">About Me</h2>
   <p align="center">I blend academic knowledge with practical experience to design and develop scalable, secure, and innovative digital solutions. My approach is rooted in both curiosity and purpose — ensuring every product I build not only functions well but also creates real impact.

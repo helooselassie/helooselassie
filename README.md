@@ -64,8 +64,8 @@ Beyond day-to-day development, I’m an active participant in the open-source co
 </div>
  -->
 
-<!-- GitHub Stats -->
-<h2 align="left">
+<!-- GitHub Stats --><!--
+<!--<h2 align="left">
 GitHub Stats
 </h2>
 
@@ -73,7 +73,7 @@ GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" />
   
-
+-->
 ---
 
 <p align="center">

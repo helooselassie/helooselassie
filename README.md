@@ -1,15 +1,22 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/selassieheloo">HELOOSELASSIE</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/selassieheloo">HELOO SELASSIE</a> </h1>
 
 <!-- Typing effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Blending+theory+with+real-world+dev+skills;Designing+scalable+%26+secure+digital+solutions;Driven+by+curiosity+%26+impact;Open+source+collaborator+%7C+Lifelong+learner;Exploring+security%2C+software%2C+%26+IT+infrastructure;Crafting+seamless+web+%26+tech-driven+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Delivering+security%2C+software%2C+and+digital+solutions+that+work;Certified+security+installations+%7C+CCTV+%7C+Electric+fencing+%26+more;Web+%26+software+development+with+real+business+impact;Flexible+pricing+%7C+Standard+packages+%2B+custom+quotes;Branding%2C+SEO%2C+and+IT+consulting+under+one+roof;Discovery-first+approach+to+tech+solutions;Ongoing+support+%7C+Upgrades+%7C+Proactive+maintenance;Ghana+compliance-ready+tech+and+infrastructure" alt="Typing SVG" />
+</a>
+</p>
+
   </a>
   <h2 align="center">About Me</h2>
-  <p align="center">I blend academic knowledge with practical experience to design and develop scalable, secure, and innovative digital solutions. My approach is rooted in both curiosity and purpose — ensuring every product I build not only functions well but also creates real impact.
+<p align="center">
+  I offer a dynamic mix of services spanning electronic security systems, IT infrastructure, web and software development, branding and creative design, and digital marketing. My work is guided by a discovery-first approach—prioritizing deep understanding of your goals and industry before proposing tailored, results-driven solutions.
 
-Beyond day-to-day development, I’m an active participant in the open-source community, where I continuously contribute, collaborate, and expand my skillset. I stay attuned to emerging technologies across software development, electronic security systems, and IT infrastructure, with a strong focus on creating seamless web experiences and advancing both digital and physical security through thoughtful, technology-driven design.</p>
+  With a commitment to quality, I provide ongoing support through proactive maintenance, scalable upgrades, and compliance-certified installations, including officially certified electric fencing systems in Ghana. From custom websites and apps to CCTV systems, gate automation, LAN/WAN setup, and SEO campaigns, I combine technical expertise with creative strategy to deliver seamless digital and physical experiences.
+
+  Whether you're seeking secure infrastructure, impactful design, or digital growth, I offer flexible, transparent pricing through both standardized packages and customized quotes to suit your needs. Backed by a strong reputation for responsiveness and safety compliance, I’m here to help you build smarter, safer, and more connected solutions.
 </p>
+
 
 
 <img align="right" alt="Coding" min-width="300px" max-width="200px" width="340px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />

@@ -9,7 +9,7 @@
 
   </a>
   <h2 align="center">About Me</h2>
-<p align="center">
+<p align="left">
   I offer a dynamic mix of services spanning electronic security systems, IT infrastructure, web and software development, branding and creative design, and digital marketing. My work is guided by a discovery-first approach—prioritizing deep understanding of your goals and industry before proposing tailored, results-driven solutions.
 
   With a commitment to quality, I provide ongoing support through proactive maintenance, scalable upgrades, and compliance-certified installations, including officially certified electric fencing systems in Ghana. From custom websites and apps to CCTV systems, gate automation, LAN/WAN setup, and SEO campaigns, I combine technical expertise with creative strategy to deliver seamless digital and physical experiences.
@@ -96,10 +96,10 @@ GitHub Stats
 </p>
 
 <p align="center">
-- 🛡️💻 Tech fact: The first computer virus was created as an experiment in 1986 — now we build firewalls to stop its descendants!<br>
-- ⚠️👨‍💻 Code alert: One misplaced character in your code can open a security hole big enough for hackers to walk through.<br>
-- 🔐🏰 Programming truth: Writing secure code is like locking every door in a mansion — miss one, and you’re exposed.<br>
-- 🕵️‍♂️🗓️ Cyber insight: The average time to detect a data breach is over 200 days — that’s a long time for bugs to party.<br>
-- 🐞💣 Dev fact: Buffer overflows are decades old — and still a hacker’s best friend if you're not careful.<br>
+<li> 🛡️💻 Tech fact: The first computer virus was created as an experiment in 1986 — now we build firewalls to stop its descendants!<br></li>
+<li> ⚠️👨‍💻 Code alert: One misplaced character in your code can open a security hole big enough for hackers to walk through.<br></li>
+<li> 🔐🏰 Programming truth: Writing secure code is like locking every door in a mansion — miss one, and you’re exposed.<br></li>
+<li> 🕵️‍♂️🗓️ Cyber insight: The average time to detect a data breach is over 200 days — that’s a long time for bugs to party.<br></li>
+<li> 🐞💣 Dev fact: Buffer overflows are decades old — and still a hacker’s best friend if you're not careful.<br></li>
 - 📫 Email: helooselassie@gmail.com
 </p>

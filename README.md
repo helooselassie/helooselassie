@@ -19,18 +19,16 @@
 
 
 
-<img align="right" alt="Coding" min-width="300px" max-width="200px" width="340px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-
 <!-- About me -->
-
+## More Me
+<p align="left">
 - 🎓  I hold an advance certificate of Development (**B`Dev**) — where curiosity met code.
 - 🧑🏿‍💻 Proud **Open Source Contributor**, collaborating globally and learning through shared knowledge
 - 🌱 Currently diving deeper into **Python**, building scalable, clean, and efficient solutions
 - 👀 Fascinated by both **Frontend** flair and **Backend** logic — I enjoy crafting complete digital experiences.
 - 💡 Focused on mastering **E-Security** and **Modern Web Development**, where functionality meets safety.
 - 📚 Lifelong tech enthusiast — passionate about solving real-world problems through code and creativity.
-
+</p>
 
 <!-- Tech Stack -->
 

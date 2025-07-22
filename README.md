@@ -64,7 +64,7 @@ Beyond day-to-day development, I’m an active participant in the open-source co
 </div>
  -->
 
-<!-- GitHub Stats --><!--
+<!-- GitHub Stats -->
 <h2 align="left">
 GitHub Stats
 </h2>

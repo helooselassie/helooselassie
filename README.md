@@ -21,14 +21,15 @@
 
 <!-- About me -->
 ## More Me
-<p align="left">
-- 🎓  I hold an advance certificate of Development (**B`Dev**) — where curiosity met code.
-- 🧑🏿‍💻 Proud **Open Source Contributor**, collaborating globally and learning through shared knowledge
-- 🌱 Currently diving deeper into **Python**, building scalable, clean, and efficient solutions
-- 👀 Fascinated by both **Frontend** flair and **Backend** logic — I enjoy crafting complete digital experiences.
-- 💡 Focused on mastering **E-Security** and **Modern Web Development**, where functionality meets safety.
-- 📚 Lifelong tech enthusiast — passionate about solving real-world problems through code and creativity.
-</p>
+<ul align="left">
+  <li>🎓 I hold an advanced certificate of Development (**B`Dev**) — where curiosity met code.</li>
+  <li>🧑🏿‍💻 Proud <strong>Open Source Contributor</strong>, collaborating globally and learning through shared knowledge.</li>
+  <li>🌱 Currently diving deeper into <strong>Python</strong>, building scalable, clean, and efficient solutions.</li>
+  <li>👀 Fascinated by both <strong>Frontend</strong> flair and <strong>Backend</strong> logic — I enjoy crafting complete digital experiences.</li>
+  <li>💡 Focused on mastering <strong>E-Security</strong> and <strong>Modern Web Development</strong>, where functionality meets safety.</li>
+  <li>📚 Lifelong tech enthusiast — passionate about solving real-world problems through code and creativity.</li>
+</ul>
+
 
 <!-- Tech Stack -->
 

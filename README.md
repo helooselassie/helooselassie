@@ -1,101 +1,145 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/selassieheloo">HELOO SELASSIE</a> </h1>
+# 👋 Hi, I'm [SELASSIE KWABLA HELOO](https://www.linkedin.com/in/selassieheloo)
 
-<!-- Typing effect -->
+### Systems Engineer | Software Developer | Electronic Security Specialist | Technology Entrepreneur
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Delivering+security%2C+software%2C+and+digital+solutions+that+work;Certified+security+installations+%7C+CCTV+%7C+Electric+fencing+%26+more;Web+%26+software+development+with+real+business+impact;Flexible+pricing+%7C+Standard+packages+%2B+custom+quotes;Branding%2C+SEO%2C+and+IT+consulting+under+one+roof;Discovery-first+approach+to+tech+solutions;Ongoing+support+%7C+Upgrades+%7C+Proactive+maintenance;Ghana+compliance-ready+tech+and+infrastructure" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=0A9BFF&center=true&vCenter=true&width=850&lines=Engineering+Secure+%26+Scalable+Technology+Solutions;Building+Modern+Web+%26+Software+Applications;Electronic+Security+%7C+Networks+%7C+IT+Infrastructure;Turning+Complex+Problems+Into+Practical+Solutions;Technology+%7C+Innovation+%7C+Continuous+Learning" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/selassieheloo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <h2 align="center">About Me</h2>
-<p align="left">
-  I offer a dynamic mix of services spanning electronic security systems, IT infrastructure, web and software development, branding and creative design, and digital marketing. My work is guided by a discovery-first approach—prioritizing deep understanding of your goals and industry before proposing tailored, results-driven solutions.
-
-  With a commitment to quality, I provide ongoing support through proactive maintenance, scalable upgrades, and compliance-certified installations, including officially certified electric fencing systems in Ghana. From custom websites and apps to CCTV systems, gate automation, LAN/WAN setup, and SEO campaigns, I combine technical expertise with creative strategy to deliver seamless digital and physical experiences.
-
-  Whether you're seeking secure infrastructure, impactful design, or digital growth, I offer flexible, transparent pricing through both standardized packages and customized quotes to suit your needs. Backed by a strong reputation for responsiveness and safety compliance, I’m here to help you build smarter, safer, and more connected solutions.
-</p>
-
-
-
-<!-- About me -->
-## More Me
-<ul align="left">
-  <li>🎓 I hold an advanced certificate of Development (**B`Dev**) — where curiosity met code.</li>
-  <li>🧑🏿‍💻 Proud <strong>Open Source Contributor</strong>, collaborating globally and learning through shared knowledge.</li>
-  <li>🌱 Currently diving deeper into <strong>Python</strong>, building scalable, clean, and efficient solutions.</li>
-  <li>👀 Fascinated by both <strong>Frontend</strong> flair and <strong>Backend</strong> logic — I enjoy crafting complete digital experiences.</li>
-  <li>💡 Focused on mastering <strong>E-Security</strong> and <strong>Modern Web Development</strong>, where functionality meets safety.</li>
-  <li>📚 Lifelong tech enthusiast — passionate about solving real-world problems through code and creativity.</li>
-</ul>
-
-
-<!-- Tech Stack -->
-
-## 💻 Programing lenguage
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js" />
+  <a href="https://seldatasolutions.com/">
+    <img src="https://img.shields.io/badge/Website-SelData%20Solutions-0B1F33?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:helooselassie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- Devlopment -->
-
-## 💻 Devlopment
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-  </a>
-</p>
-
-<!-- Tools -->
-
-## 🔧 Tools I Use
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,vscode,git,github,linux,vercel" />
-  </a>
-</p>
-
-<!-- Certification Badges
-
-## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
-<a href="https://api.badgr.io/public/assertions/wr0NTzwXSZiEuORGzNlwVg?identity__email=patidhrubaraj%40gmail.com"> </a>
-<img src="Assets/Postman - Postman.png" width="100px" height="100px" />
-</div>
- -->
-
-<!-- GitHub Stats -->
-<h2 align="center">
-GitHub Stats
-</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=helooselassie&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helooselassie&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" />
-   
 
 ---
 
+## 🚀 About Me
+
+I'm **Selassie Kwabla Heloo**, a Systems Engineer and technology enthusiast passionate about designing, developing, implementing, and maintaining secure and scalable technology solutions.
+
+My work sits at the intersection of **software engineering, electronic security, IT infrastructure, and digital innovation**.
+
+I enjoy understanding complex business and technical challenges, identifying the right technologies, and transforming ideas into practical solutions that deliver measurable value.
+
+Through my work at **[SelData Solutions](https://seldatasolutions.com/)**, I contribute to delivering integrated technology services that help individuals and businesses operate smarter, safer, and more efficiently.
+
+### What I Do
+
+- 🛡️ **Electronic Security:** CCTV, access control, biometric systems, intrusion alarms, electric fencing, vehicle tracking, and automation.
+- 💻 **Software Development:** Modern websites, web applications, backend systems, API integrations, and business automation.
+- 🌐 **IT & Network Infrastructure:** Network architecture, LAN/WAN, structured cabling, servers, cloud solutions, and IT support.
+- 🎨 **Branding & Digital Solutions:** Brand identity, UI/UX, digital marketing, SEO, and creative technology solutions.
+- 🔐 **Systems Engineering:** Infrastructure deployment, system integration, security, troubleshooting, and continuous optimisation.
+
+My philosophy is simple: **Build technology that works, secure what matters, and create solutions that scale.**
+
+---
+
+## 🧠 More About Me
+
+- 🎓 I hold an Advanced Certificate in Development (BDev).
+- 👨🏿‍💻 Passionate about software engineering and practical problem-solving.
+- 🌱 Continuously developing my skills in Python, modern web technologies, and systems engineering.
+- 🔍 Interested in both frontend experiences and backend architecture.
+- 🔐 Focused on cybersecurity, electronic security, and secure infrastructure.
+- 🤝 Believe in collaboration, open-source development, and knowledge sharing.
+- 🚀 Driven by innovation, continuous learning, and building technology with real-world impact.
+
+---
+
+## 💻 Technical Skills & Technologies
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,c" alt="Programming Languages" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Frontend Technologies" />
+</p>
+
+### Development Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,powershell,vercel" alt="Development Tools" />
+</p>
+
+### Areas of Technical Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Systems%20Engineering-0B1F33?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-DC3545?style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-1572B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/API%20Development-6DB33F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Electronic%20Security-C9A24D?style=flat-square" />
+  <img src="https://img.shields.io/badge/IT%20Infrastructure-6C757D?style=flat-square" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://seldatasolutions.com/">Website</a> -
-  <a href="https://www.linkedin.com/in/selassieheloo">LinkedIn</a> -
-  <a href="https://x.com/selassieheloo">Twitter</a> -   
-  <a href="https://www.instagram.com/selassieheloo/">Instagram</a> -
-  <a href="https://wa.me/+233240301853">Contact me.</a>
- 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=helooselassie&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helooselassie&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-<li> 🛡️💻 Tech fact: The first computer virus was created as an experiment in 1986 — now we build firewalls to stop its descendants!<br></li>
-<li> ⚠️👨‍💻 Code alert: One misplaced character in your code can open a security hole big enough for hackers to walk through.<br></li>
-<li> 🔐🏰 Programming truth: Writing secure code is like locking every door in a mansion — miss one, and you’re exposed.<br></li>
-<li> 🕵️‍♂️🗓️ Cyber insight: The average time to detect a data breach is over 200 days — that’s a long time for bugs to party.<br></li>
-<li> 🐞💣 Dev fact: Buffer overflows are decades old — and still a hacker’s best friend if you're not careful.<br></li>
-- 📫 Email: helooselassie@gmail.com
+  <img src="https://streak-stats.demolab.com?user=helooselassie&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helooselassie&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+I'm always interested in connecting with developers, engineers, technology enthusiasts, businesses, and people working on innovative solutions.
+
+<p align="center">
+  <a href="https://seldatasolutions.com/">
+    <img src="https://img.shields.io/badge/SelData%20Solutions-Visit%20Website-0B1F33?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/selassieheloo">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/selassieheloo">X (Twitter)</a> •
+  <a href="https://www.instagram.com/selassieheloo/">Instagram</a> •
+  <a href="https://wa.me/233240301853">WhatsApp</a> •
+  <a href="mailto:helooselassie@gmail.com">Email</a>
+</p>
+
+---
+
+## 💡 Engineering Mindset
+
+> "Technology is most powerful when it solves real problems, protects what matters, and makes life simpler."
+
+- 🔐 Security should be built into systems, not added as an afterthought.
+- ⚙️ Reliable engineering starts with thoughtful architecture and proper implementation.
+- 🚀 Innovation means creating practical solutions, not just adopting new technologies.
+- 📈 Continuous learning is essential in an ever-evolving technology landscape.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helooselassie&label=Profile%20Views&color=0B1F33&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  **© SELASSIE KWABLA HELOO | Engineering Tomorrow, Today.**
 </p>
